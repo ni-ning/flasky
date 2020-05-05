@@ -1,4 +1,4 @@
-#coding: utf-8
+# coding: utf-8
 
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
